@@ -1,0 +1,21 @@
+body{
+    background-image: url("https://image.freepik.com/vector-gratis/fondo-astral-galactico_125540-407.jpg");
+}
+
+h1{
+    color: red
+}
+img{
+    width: 400px;
+}
+#thirdDiv{
+    width: 500px;
+    height: 600px;
+    background-color: rgb(212, 184, 212);
+    padding: 50px;
+    border: solid rgb(0, 0, 0);
+}
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+}
